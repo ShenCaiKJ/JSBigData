@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ShenCaiKJ/JSBigData/raw/master/JSBigData.ipa</string>
+					<string>http://58.210.204.106:18281/file/JSBigData/JSBigData.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/ShenCaiKJ/JSBigData/raw/master/JSBigData58.png</string>
+					<string>http://58.210.204.106:18281/file/JSBigData/JSBigData58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/ShenCaiKJ/JSBigData/raw/master/JSBigData180.png</string>
+					<string>http://58.210.204.106:18281/file/JSBigData/JSBigData180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
